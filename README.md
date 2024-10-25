@@ -1,4 +1,4 @@
-<h1  align="center">QuickInsight
+<h1  align="center">CognitioAI
 </h1>
   
 
