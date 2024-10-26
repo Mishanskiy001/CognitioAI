@@ -85,6 +85,9 @@
 ## Перспективы
 
 ## Обратная связь
+Вконтакте: https://vk.com/mischka1net
+Почта: mischka.zar@gmail.com
+
 
 
 
