@@ -5,7 +5,6 @@ from collections import Counter
 
 
 def extract_text_from_pdf(uploaded_file):
-    """Извлечение текста из PDF файла."""
     doc = fitz.open(stream=uploaded_file.read(), filetype="pdf")
     text = ""
     for page in doc:
@@ -14,7 +13,6 @@ def extract_text_from_pdf(uploaded_file):
 
 
 def summarize_text(text, num_sentences=3):
-    """Создание краткого содержания текста с использованием частотного анализа."""
     text = re.sub(r'\s+', ' ', text)  
     sentences = text.split('. ')
 
