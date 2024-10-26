@@ -61,6 +61,11 @@
 ![image](https://github.com/user-attachments/assets/f97640b5-e81e-4a60-b2d0-6d63cefd5a79)
 
 
+<h3  align="left">Пользовательское сравнение
+
+![image](https://github.com/user-attachments/assets/3481d41f-0fcb-4a0a-bedf-2468225fed3a)
+
+
 
 
 
