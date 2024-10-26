@@ -65,6 +65,12 @@
 
 ![image](https://github.com/user-attachments/assets/3481d41f-0fcb-4a0a-bedf-2468225fed3a)
 
+<h3  align="left">Техническое сравнение 
+
+![image](https://github.com/user-attachments/assets/4aafb4fd-e38b-4aee-ad52-4c64690c6640)
+
+
+
 
 
 
