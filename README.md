@@ -56,7 +56,7 @@
 
 
 ## Исследование Области
-Конкуренты
+<h2  align="center">Конкуренты
 ![image](https://github.com/user-attachments/assets/65a7c4ff-8bed-47dd-ae2e-2a96aa825d26)
 
 
